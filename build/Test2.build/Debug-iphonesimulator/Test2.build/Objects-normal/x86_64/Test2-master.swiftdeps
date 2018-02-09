@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "55705d3deb88bc322847dc43c221b34a"
+build_time: [1517929158, 496158000]
+inputs:
+  "/Users/monradajuycharoen/Desktop/DUP/Test2/Test2/DroneCon/DroneConVC.swift": [1507459109, 0]
+  "/Users/monradajuycharoen/Desktop/DUP/Test2/Test2/RTSP/RTSPVC.swift": [1513609708, 0]
+  "/Users/monradajuycharoen/Desktop/DUP/Test2/Test2/MainApp/MainVC.swift": [1517639560, 0]
+  "/Users/monradajuycharoen/Desktop/DUP/Test2/Test2/Input Page/Input1_VC.swift": [1517929158, 0]
+  "/Users/monradajuycharoen/Desktop/DUP/Test2/Test2/AppDelegate.swift": [1507142331, 0]
+  "/Users/monradajuycharoen/Desktop/DUP/Test2/Test2/Input Page/Input2_VC.swift": [1517929059, 0]
